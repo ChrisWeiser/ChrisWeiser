@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ChrisWeiser !
-- 👀 I’m interested in learning to draw and animate, especially in ProCreate.
-- 🌱 I’m currently learning [Astro](https://astro.build/).
-- 💞️ I’m looking to collaborate on large-scale projects
+- 👀 I’m interested in learning to draw and animate, especially in Clip Studio Paint and Procreate.
+- 🌱 I’m currently learning how to use [ACF Blocks](https://www.advancedcustomfields.com/resources/blocks/) and [Timber](https://timber.github.io/docs/getting-started/setup/) in WordPress
+- 💞️ Our team is looking to collaborate on large-scale projects
 - 📫 How to reach me: [cweiser@tsts.com](mailto:cweiser@tsts.com) or at [tsts.com](https://www.tsts.com/contact/)
 
 <!---
