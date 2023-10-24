@@ -1,7 +1,9 @@
+<a href="https://app.daily.dev/christsts"><img src="https://api.daily.dev/devcards/a1e48b2e8f9943918a8cb37907fe37ff.png?r=oen" width="400" alt="Chris W's Dev Card"/></a>
+
 - 👋 Hi, I’m @ChrisWeiser !
-- 👀 I’m interested in learning to draw and animate, especially in Clip Studio Paint and Procreate.
-- 🌱 I’m currently learning how to use [ACF Blocks](https://www.advancedcustomfields.com/resources/blocks/) and [Timber](https://timber.github.io/docs/getting-started/setup/) in WordPress
-- 💞️ Our team is looking to collaborate on large-scale projects
+- 👀 I’m interested in learning the most creative ways to design a website and code it succinctly using modern techniques.
+- 🌱 I’m currently learning React.js via the Pluralsight series.
+- 💞️ Our team is looking to collaborate on large-scale projects.
 - 📫 How to reach me: [cweiser@tsts.com](mailto:cweiser@tsts.com) or at [tsts.com](https://www.tsts.com/contact/)
 
 <!---
