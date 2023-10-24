@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/christsts"><img src="https://api.daily.dev/devcards/a1e48b2e8f9943918a8cb37907fe37ff.png?r=oen" width="400" alt="Chris W's Dev Card"/></a>
+<a href="https://app.daily.dev/christsts"><img src="https://github.com/ChrisWeiser/ChrisWeiser/blob/main/devcard.svg" width="400" alt="Chris W's Dev Card"/></a>
 
 - 👋 Hi, I’m @ChrisWeiser !
 - 👀 I’m interested in learning the most creative ways to design a website and code it succinctly using modern techniques.
